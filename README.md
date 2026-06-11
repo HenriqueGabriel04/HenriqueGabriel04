@@ -1,7 +1,7 @@
-## Hi there 👋
+## Welcome to my Github profile! 👋
 
 ---
-Hi, I'm Henrique Gabriel silva, a 21 years old Electrical Engineering student.
+Hi, I'm Henrique Gabriel Silva, a 21 years old Electrical Engineering student with a strong interest in non-linear system identification.
 ---
 
 <!--
