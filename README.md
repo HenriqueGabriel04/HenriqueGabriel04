@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+---
+Hi, I'm Henrique Gabriel silva, a 21 years old Electrical Engineering student.
+---
+
 <!--
 **HenriqueGabriel04/HenriqueGabriel04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
